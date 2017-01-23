@@ -1,18 +1,18 @@
 h1 {
 	font-size: 40em;
-	color: white;
+	color: #ffffff;
 	text-align: center;
-	border: 5em solid white;
-	background-color: purple;
+	border: 5em solid #ffffff;
+	background-color: #BF05DE;
 }
 
 td{
-	background-color: purple;
-	color: white;
+	background-color: #BF05DE;
+	color: #ffffff;
 	font-size: 30em;
-	border: 3em solid white;
+	border: 3em solid #ffffff;
 }
 
 table{
-	border: 5em solid white;
+	border: 5em solid #ffffff;
 }
